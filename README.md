@@ -11,6 +11,8 @@ header and section headers to load the TE file into Binary Ninja and facilitate 
 are found in UEFI firmware images. See the [efi-inspector](https://github.com/zznop/efi-inspector)
 plugin to analyze and extract TE files from UEFI flash dumps.
 
+![demo load](screenshot.png)
+
 ## Installation Instructions
 
 ### Darwin
