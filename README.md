@@ -1,5 +1,7 @@
 # te-loader
 
+**ATTENTION: This plugin is deprecated. Binary Ninja now has native support for loading Terse Executables.**
+
 Author: **Brandon Miller (zznop)**
 
 _Binary Ninja loader for EFI Terse Executables_
